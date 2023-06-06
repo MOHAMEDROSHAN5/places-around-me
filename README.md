@@ -1,8 +1,10 @@
+#
 # Places Around Me
+#
 ## AIM:
 To develop a website to display details about the places around my house.
 
-## Design Steps:
+# Design Steps:
 
 ### Step 1:
 
@@ -20,7 +22,7 @@ WRITE THE NEEDED HTML CODE
 
 RUN THE DJANGO SERVER AND EXECUTE THE HTML FILES
 
-## Code:
+# Code:
 ``` html
 
 INDEX.HTML
@@ -266,7 +268,7 @@ COURIER.HTML
 
 ```
 
-## Output:
+# Output:
 
 ![INDEXOUTPUT](./index.png)
 
@@ -282,8 +284,8 @@ COURIER.HTML
 
 ![COURIEROUTPUT](./courier.png)
 
-### HTML VALIDATOR:
+# HTML VALIDATOR:
 ![HTMLVALIDATOR](./validator.png)
 
-## Result:
+# Result:
 THE PROGRAM FOR IMPLEMENTING IMAGEMAP IS EXECUTED SUCCESSFULLY
